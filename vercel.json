@@ -1,6 +1,0 @@
-{
-  "buildCommand": "cd aykah-furniture && npm install && npm run build",
-  "outputDirectory": "aykah-furniture/.next",
-  "framework": "nextjs",
-  "installCommand": "cd aykah-furniture && npm install"
-}
